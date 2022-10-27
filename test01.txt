@@ -1,1 +1,2 @@
 Hello git
+add some code in clone folder file
